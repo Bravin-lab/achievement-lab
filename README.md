@@ -1,6 +1,6 @@
 # Achievement Lab
 
-This repository is used to practice GitHub features and unlock achievements.
+I created this repo for fun,nothing much...reflective mood
 
 ## Goals
 - I beleive the internet should be free however resources are finite
